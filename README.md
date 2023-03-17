@@ -2,6 +2,9 @@
 
 A simple web application built with Streamlit that utilizes OpenAI's GPT-3 API to provide suggested revisions for error messages. The app also stores all error logs in an SQLite database.
 
+Deployed App:
+https://errorhandlingtool.streamlit.app/
+
 ---
 
 Welcome to the Error Handling Tool!
