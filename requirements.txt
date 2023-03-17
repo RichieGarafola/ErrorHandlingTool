@@ -3,4 +3,4 @@ streamlit==1.20.0
 sqlite3==0.5.0
 pip==23.0.1
 
-python -m pip install --upgrade pip
+python pip install --upgrade pip
