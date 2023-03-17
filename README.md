@@ -19,7 +19,7 @@ Whether you're a seasoned programmer or just starting out, the Error Handling To
 ## Installation
 1. Clone the repository:
 
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/RichieGarafola/ErrorHandlingTool.git
 
 ---
 
