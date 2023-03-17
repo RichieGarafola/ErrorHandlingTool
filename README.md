@@ -25,7 +25,7 @@ Whether you're a seasoned programmer or just starting out, the Error Handling To
 
 2. Navigate to the project directory:
 
-    cd repo-name
+    cd ErrorHandlingTool
     
 3. Install the required packages:
     pip install -r requirements.txt
