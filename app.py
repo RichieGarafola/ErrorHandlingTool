@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 import sqlite3
 import datetime
-from config import *
+# from config import *
 
 # Set up OpenAI API credentials
 openai.api_key = API_KEY
