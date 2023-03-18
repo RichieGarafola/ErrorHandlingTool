@@ -5,7 +5,7 @@ import datetime
 # from config import *
 
 # Set up OpenAI API credentials
-openai.api_key = st.secrets=["API_KEY"]
+openai.api_key = st.secrets=[API_KEY]
 
 # Create a connection to the database
 conn = sqlite3.connect('error_logs.db')
