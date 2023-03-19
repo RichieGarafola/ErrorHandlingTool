@@ -64,11 +64,6 @@ Contributions are welcome. Please open an issue or submit a pull request if you 
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ### Acknowledgements
 Streamlit documentation
 OpenAI GPT-3 API documentation
