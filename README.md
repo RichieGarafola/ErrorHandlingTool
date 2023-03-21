@@ -18,7 +18,6 @@ The Error Handling Tool isn't just about fixing code, though. It's about empower
 Whether you're a seasoned programmer or just starting out, the Error Handling Tool is here to help you on your journey. So go ahead and give it a try - you might just be surprised at how much easier debugging can be with a little help from AI!
 
 
-
 ## Installation
 1. Clone the repository:
 
